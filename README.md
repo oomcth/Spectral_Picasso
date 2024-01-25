@@ -1,2 +1,3 @@
 # Spectral_Picasso
-Trying to achieve Neural style transfer with spectral decomposition (It doesn't work and is extremely computationally costly)
+
+I wanted to see If spectral decomposition could achieve Neural Style Transfer like results... Spoiler, it can't and is extremelly costly.
